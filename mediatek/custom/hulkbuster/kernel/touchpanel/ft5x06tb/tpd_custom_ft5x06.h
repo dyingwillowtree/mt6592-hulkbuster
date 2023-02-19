@@ -16,8 +16,8 @@
 #define TPD_POWER_SOURCE_CUSTOM         MT6323_POWER_LDO_VGP1
 
 #define TPD_DELAY                (2*HZ/100)
-#define TPD_RES_X                1200
-#define TPD_RES_Y                1920
+#define TPD_RES_X                1920
+#define TPD_RES_Y                1200
 #define TPD_CALIBRATION_MATRIX  {962,0,0,0,1600,0,0,0};
 // #define TPD_CUSTOM_CALIBRATION
 #define TPD_HAVE_CALIBRATION
